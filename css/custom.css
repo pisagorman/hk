@@ -1,0 +1,22 @@
+.header-user-info-coodiv {
+    list-style: none;
+    padding: 0;
+}
+
+.user-status {
+    display: inline-block;
+    background-color: #ff4500; /* Turuncuya yakın kırmızı */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.user-status a {
+    color: white;
+    text-decoration: none;
+}
+
+

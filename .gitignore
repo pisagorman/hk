@@ -1,0 +1,8 @@
+_notes/
+*.log
+*.zip
+.DS_Store
+error/
+img/_notes/
+js/_notes/
+template-parts/_notes/
